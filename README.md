@@ -1,8 +1,17 @@
-# React + Vite
+# JoshuaYuan.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with React, showcasing projects, work experiences, and embedded YouTube videos.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Design**: Powered by React and Framer Motion for smooth animations.
+- **Work and Projects**: Highlighting technical skills and accomplishments.
+- **YouTube Integration**: Embedding YouTube videos directly on the page.
+- **Responsive Design**: Optimized for all devices.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide React
