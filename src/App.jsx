@@ -6,6 +6,7 @@ import csharpLogo from './assets/csharp_logo.png';
 import sqlLogo from './assets/sql_logo.png';
 import javaLogo from './assets/java_logo.png';
 import apacheSparkLogo from './assets/apache_spark_logo.png';
+import profPic from './assets/josh.png';
 
 export default function JoshuaYuanPortfolio() {
   const [modalContent, setModalContent] = useState(null);
@@ -53,7 +54,7 @@ export default function JoshuaYuanPortfolio() {
         >
           <div className="flex items-center gap-8 mb-8">
             <motion.img
-              src="src/assets/josh.png"
+              src = {profPic}
               alt="Joshua Yuan"
               className="w-48 h-48 rounded-2xl border-4 border-[#EBE3D5] shadow-lg"
               initial={{ opacity: 0 }}
